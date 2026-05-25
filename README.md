@@ -66,9 +66,7 @@ Aspiring AI/ML Engineer | Data Science | Deep Learning
 ![](https://github-contributor-stats.vercel.app/api?username=CHETHAN214&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 
-## 🐍 Contribution Snake
-
-![snake gif](https://github.com/CHETHAN214/CHETHAN214/blob/output/github-contribution-grid-snake.svg)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://rainbow-trifle-5b11ff.netlify.app/)
 
 
 ---
