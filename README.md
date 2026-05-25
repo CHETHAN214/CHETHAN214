@@ -54,28 +54,37 @@ Aspiring AI/ML Engineer | Data Science | Deep Learning
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=CHETHAN214&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## 🏆 GitHub Trophies
 
 ![](https://github-profile-trophy.vercel.app/?username=CHETHAN214&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 ## 🏆 Achievements
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 - 🥈 Ranked **4245 among 31,000+ participants** in a Kaggle Machine Learning competition
  
 - 🩺 Achieved **87% accuracy** in Skin Cancer (Melanoma) Detection using CNN
 
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## 📌 Kaggle Projects
 
 [![Kaggle](https://img.shields.io/badge/Kaggle-Projects-blue?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/code/chethankv/house-prices-advanced-regression-tec/edit)
 
 - 🏠 House Prices Advanced Regression Techniques
+- 
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 ### ✍️ Random Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## 📚 Published Library
 
