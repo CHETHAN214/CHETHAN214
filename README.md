@@ -39,7 +39,6 @@ Aspiring AI/ML Engineer | Data Science | Deep Learning
 
 - 🔍 LLM-Powered RAG System for Semantic Code Search
 - 🩺 Skin Cancer (Melanoma) Detection using CNN
-- 🤖 AI Object Removal Tool
 - 🎬 Movie Recommendation System
 
 
