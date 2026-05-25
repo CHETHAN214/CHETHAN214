@@ -66,8 +66,6 @@ Aspiring AI/ML Engineer | Data Science | Deep Learning
  
 - 🩺 Achieved **87% accuracy** in Skin Cancer (Melanoma) Detection using CNN
 
--------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 ## 📌 Kaggle Projects
 
 [![Kaggle](https://img.shields.io/badge/Kaggle-Projects-blue?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/code/chethankv/house-prices-advanced-regression-tec/edit)
