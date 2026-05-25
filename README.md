@@ -63,7 +63,6 @@ Aspiring AI/ML Engineer | Data Science | Deep Learning
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## 🏆 Achievements
--------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 - 🥈 Ranked **4245 among 31,000+ participants** in a Kaggle Machine Learning competition
  
@@ -93,6 +92,7 @@ Aspiring AI/ML Engineer | Data Science | Deep Learning
 - ⚡ Simplifies embedding storage and retrieval for LLM-powered applications
 
 [![GitHub](https://img.shields.io/badge/EmbedStore-View_Source-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CHETHAN214/embedstore)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 ![](https://github-contributor-stats.vercel.app/api?username=CHETHAN214&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
