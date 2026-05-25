@@ -75,9 +75,8 @@ Aspiring AI/ML Engineer | Data Science | Deep Learning
 [![Kaggle](https://img.shields.io/badge/Kaggle-Projects-blue?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/code/chethankv/house-prices-advanced-regression-tec/edit)
 
 - 🏠 House Prices Advanced Regression Techniques
-- 
+  
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 
 ### ✍️ Random Dev Quote
 
@@ -100,7 +99,6 @@ Aspiring AI/ML Engineer | Data Science | Deep Learning
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://rainbow-trifle-5b11ff.netlify.app/)
-
 
 ---
 ⭐ From [CHETHAN214](https://github.com/CHETHAN214)
