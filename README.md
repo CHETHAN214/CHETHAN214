@@ -97,6 +97,7 @@ Aspiring AI/ML Engineer | Data Science | Deep Learning
 
 ![](https://github-contributor-stats.vercel.app/api?username=CHETHAN214&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://rainbow-trifle-5b11ff.netlify.app/)
 
