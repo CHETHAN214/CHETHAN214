@@ -23,5 +23,7 @@ Aspiring AI/ML Engineer | Data Science | Deep Learning
 
 ---
 [![](https://komarev.com/ghpvc/?username=CHETHAN214&icon=0&color=0)](https://visitcount.itsvg.in)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://rainbow-trifle-5b11ff.netlify.app/)
 
+![](https://komarev.com/ghpvc/?username=CHETHAN214&color=blue)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
