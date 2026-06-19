@@ -11,7 +11,7 @@ Aspiring AI/ML Engineer | Data Science | Deep Learning
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chethan-k-v-475375268/)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://rainbow-trifle-5b11ff.netlify.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://roaring-pothos-01143f.netlify.app/)
 
 
 # 💻 Tech Stack:
